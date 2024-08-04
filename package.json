@@ -1,0 +1,22 @@
+{
+  "name": "medusa-java",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite build --watch",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "htmx.org": "^1.9.12"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  }
+}
